@@ -1,0 +1,1 @@
+export const env = {KEY: process.env.YOUTUBE_KEY}
